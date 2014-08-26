@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  margin: 30px 50px;
+}
+
+h1 {
+  font-size: 32px;
+  color: #008461;
+  text-align: center;
+}
+
+img {
+  height: 300px;
+}
+
+small {
+  color: gray;
+}
