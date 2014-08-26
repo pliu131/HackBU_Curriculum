@@ -10,8 +10,7 @@ Process
 Launching a text editor (default ones on Windows and Mac (Notepad and TextEdit))
 - Settings for each, I'll just check in the book
 
-1. Start with Content 
-THIS IS WHERE YOU NEED TO WRITE UP THE CONTENT FOR THE PAGE AND PUT INTO A LINK
+1. Start with Content
 Paste the content and save the document after creating a folder for the project. Save the file as index.html
 (Open up the document in a web browser by navigating to the folder that contains it)
 
