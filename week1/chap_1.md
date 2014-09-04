@@ -8,7 +8,6 @@ User Experience Design (UX)
 Interaction Design (IXD)
 "make site as easy, efficient, and delightful to use"  
 
-
 User Interface Design (UI)
 "focused on functional organization of the page as well as specific tools (buttons, links, menus, and so on) that users use to navigate the content of accomplish tasks"
 

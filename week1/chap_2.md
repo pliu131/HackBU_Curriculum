@@ -1,5 +1,8 @@
 How the Web Works
 
+https://www.youtube.com/watch?v=7_LPdttKXPc
+(old so it uses DSL)
+
 The Internet - Network of connected computers. No one owns the internet, governed by system of standards and rules. Connect computers = passing information in between. Methods of sending data/document are called protocols (email, file transfer)
 
 The Web (WWW) - One of the ways info can be shared over the internet. Documents are linked to each other using hypertext links. Web used protocol called HTTP. (Beginning of every web site)

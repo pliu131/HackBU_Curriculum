@@ -84,5 +84,3 @@ QUESTIONS
 - Name the categories of disabilities
 - When to use a waterfall chart
 - Responsive web design - good and where it falls short
-
-g
