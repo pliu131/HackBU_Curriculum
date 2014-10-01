@@ -39,3 +39,13 @@ Window in a window
 Exercises
 - The one with images and the test questions
 
+Questions
+- Which attributes must be included in every img element?
+- Write markup for image in the same directory as current file.
+- Why do we need alt text?
+- What is the advantage of using width and height attributes and when do we leave them out?
+- Why wouldn't images appear in a browser? Three reasons. 
+  - Sourced improperly; not a proper file format; images are disabled like in emails
+
+
+
